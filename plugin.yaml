@@ -1,0 +1,6 @@
+plugin:
+    name: 'shohabbos.comments::lang.plugin.name'
+    description: 'shohabbos.comments::lang.plugin.description'
+    author: Shohabbos
+    icon: oc-icon-comment-o
+    homepage: 'https://itmaker.uz'

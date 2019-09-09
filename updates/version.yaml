@@ -1,0 +1,8 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table shohabbos_comments_comments'
+    - builder_table_create_shohabbos_comments_comments.php
+1.0.3:
+    - 'Updated table shohabbos_comments_comments'
+    - builder_table_update_shohabbos_comments_comments.php

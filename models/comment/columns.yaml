@@ -1,0 +1,25 @@
+columns:
+    id:
+        label: id
+        type: number
+    attachment_id:
+        label: attachment_id
+        type: number
+    attachment_type:
+        label: attachment_type
+        type: text
+    content:
+        label: content
+        type: text
+    created_at:
+        label: created_at
+        type: datetime
+    rating:
+        label: rating
+        type: number
+    title:
+        label: title
+        type: text
+    updated_at:
+        label: updated_at
+        type: datetime
